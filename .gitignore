@@ -2,9 +2,9 @@ node_modules
 dist
 artifacts
 storage
-.env
 .gstack/
 .cursor/
 .tools/
 HANDOVER.md
 *.log
+config.bat
